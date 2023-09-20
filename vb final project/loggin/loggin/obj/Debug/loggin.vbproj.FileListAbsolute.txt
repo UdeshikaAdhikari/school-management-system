@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\vb final project\loggin\loggin\bin\Debug\loggin.exe.config
+C:\Users\HP\Desktop\vb final project\loggin\loggin\bin\Debug\loggin.exe
+C:\Users\HP\Desktop\vb final project\loggin\loggin\bin\Debug\loggin.pdb
+C:\Users\HP\Desktop\vb final project\loggin\loggin\bin\Debug\loggin.xml
+C:\Users\HP\Desktop\vb final project\loggin\loggin\obj\Debug\loggin.vbprojAssemblyReference.cache
+C:\Users\HP\Desktop\vb final project\loggin\loggin\obj\Debug\loggin.Form1.resources
+C:\Users\HP\Desktop\vb final project\loggin\loggin\obj\Debug\loggin.Resources.resources
+C:\Users\HP\Desktop\vb final project\loggin\loggin\obj\Debug\loggin.vbproj.GenerateResource.cache
+C:\Users\HP\Desktop\vb final project\loggin\loggin\obj\Debug\loggin.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\vb final project\loggin\loggin\obj\Debug\loggin.exe
+C:\Users\HP\Desktop\vb final project\loggin\loggin\obj\Debug\loggin.xml
+C:\Users\HP\Desktop\vb final project\loggin\loggin\obj\Debug\loggin.pdb

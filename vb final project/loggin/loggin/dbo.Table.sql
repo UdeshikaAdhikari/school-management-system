@@ -1,0 +1,10 @@
+﻿CREATE TABLE [dbo].[Table]
+(
+	[TId] INT NOT NULL PRIMARY KEY, 
+    [TName] NVARCHAR(50) NOT NULL, 
+    [TAddress] NVARCHAR(50) NOT NULL, 
+    [TDOB] DATE NOT NULL, 
+    [TGender] NCHAR(10) NOT NULL, 
+    [TScheme] NCHAR(10) NOT NULL, 
+    [TAdd] NCHAR(10) NOT NULL
+)

@@ -1,0 +1,20 @@
+C:\Users\HP\Desktop\vb final project\loggin\loggin\bin\Debug\loggin.exe.config
+C:\Users\HP\Desktop\vb final project\loggin\loggin\bin\Debug\loggin.exe
+C:\Users\HP\Desktop\vb final project\loggin\loggin\bin\Debug\loggin.pdb
+C:\Users\HP\Desktop\vb final project\loggin\loggin\bin\Debug\loggin.xml
+C:\Users\HP\Desktop\vb final project\loggin\loggin\obj\Debug\loggin.Fees.resources
+C:\Users\HP\Desktop\vb final project\loggin\loggin\obj\Debug\loggin.Form1.resources
+C:\Users\HP\Desktop\vb final project\loggin\loggin\obj\Debug\loggin.logging.resources
+C:\Users\HP\Desktop\vb final project\loggin\loggin\obj\Debug\loggin.Resources.resources
+C:\Users\HP\Desktop\vb final project\loggin\loggin\obj\Debug\loggin.teachers.resources
+C:\Users\HP\Desktop\vb final project\loggin\loggin\obj\Debug\college management software.vbproj.GenerateResource.cache
+C:\Users\HP\Desktop\vb final project\loggin\loggin\obj\Debug\college management software.vbproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\vb final project\loggin\loggin\obj\Debug\loggin.exe
+C:\Users\HP\Desktop\vb final project\loggin\loggin\obj\Debug\loggin.xml
+C:\Users\HP\Desktop\vb final project\loggin\loggin\obj\Debug\loggin.pdb
+C:\Users\HP\Desktop\vb final project\loggin\loggin\obj\Debug\loggin.Department.resources
+C:\Users\HP\Desktop\vb final project\loggin\loggin\obj\Debug\loggin.frmstudent.resources
+C:\Users\HP\Desktop\vb final project\loggin\loggin\obj\Debug\college management software.vbprojAssemblyReference.cache
+C:\Users\HP\Desktop\vb final project\loggin\loggin\obj\Debug\loggin.Dashboard.resources
+C:\Users\HP\Desktop\vb final project\loggin\loggin\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\HP\Desktop\vb final project\loggin\loggin\obj\Debug\college management software.vbproj.CopyComplete
